@@ -15,6 +15,7 @@ organized? How would branches help?
 When I want to do some experiments, and do not want to do it on the master branch.
 
 How do the diagrams help you visualize the branch structure?
+Using the git log --graph --oneline master branch can help me with the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
