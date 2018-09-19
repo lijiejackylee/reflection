@@ -14,3 +14,6 @@ Keep the local file most updated.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I don't know.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When the changes are somewhat experimental features and not the final version.It will help to keep the master branch clean.
